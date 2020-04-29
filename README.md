@@ -1,4 +1,4 @@
-# springboot-with-docker
+# spring-boot-with-docker
 Spring Boot Application With Dockerfile
 
 fork from:
